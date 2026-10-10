@@ -40,10 +40,7 @@ $$\because \rho, g, h 는 \space 일정$$
 우선 주어진 키트를 통해 다음과 같은 순서로 최종 결과물을 완성시킨다.
 ![만들기](Assets/making.png)
 
-<video controls width="500">
-  <source src="Assets/working.mp4" type="Assets/mp4">
-  브라우저가 동영상을 지원하지 않습니다.
-</video>
+[작동 동영상 보기](Assets/working.mp4)
 
 ## 마. 탐구결과
 
