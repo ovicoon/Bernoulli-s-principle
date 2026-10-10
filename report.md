@@ -8,7 +8,15 @@
 
 $$P + \frac{1}{2}\rho v^2 + \rho gh = \text{constant}$$
 
-이때 $p, g, h$ 의 값이 일정하다면
+$$
+\begin{aligned}
+\rho &: \text{유체의 밀도 } (\mathrm{kg/m^3}) \\
+g &: \text{중력 가속도 } (\mathrm{m/s^2}) \\
+h &: \text{기준면으로부터의 높이 } (\mathrm{m})
+\end{aligned}
+$$
+
+이때 $\rho, g, h$ 의 값이 일정하다고 하면
 
 # 탐구활동
 ## 가. 탐구기간
