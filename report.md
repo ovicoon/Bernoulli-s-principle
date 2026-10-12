@@ -18,7 +18,7 @@ $$P + \frac{1}{2}\rho v^2 = \text{constant} \quad (\because \rho, g, h \text{ �
 
 다음은 $\rho, g, h$가 일정하다는 가정하에 속도($v$, x축)와 압력($P$, y축)의 관계를 나타낸 그래프이다.
 
-![베르누이 원리 그래프](Assets/graph.png)
+<img src="Assets/graph.png" alt="베르누이 원리 그래프" width="400">
 
 그래프에서 $v$가 충분히 커지면 $P$가 음수(-) 값을 가지는 것을 볼 수 있는데, 이는 절대압력이 음수라는 의미가 아니라 대기압을 기준(0)으로 한 상대적 압력인 게이지 압력(Gauge Pressure)이 음수(저기압)가 됨을 의미한다.
 
@@ -37,18 +37,19 @@ $$P + \frac{1}{2}\rho v^2 = \text{constant} \quad (\because \rho, g, h \text{ �
 
 ## 라. 탐구과정
 1. 제공된 교구 키트의 안내에 따라 순서대로 실험 모형을 제작하였다.
-![만들기](Assets/making.png)
+<img src="Assets/making.png" alt="만들기" width="400">
 
 2. 초기 조립 후 날개가 너무 가벼워 공중에서 균형을 잡지 못하는 현상이 발생하였다. 이를 해결하기 위해 날개 뒷부분에 양면테이프를 추가로 붙여 무게중심을 뒤쪽으로 이동시켰으며, 그 결과 공중에서 안정적인 자세를 유지할 수 있었다.
-![무게 중심을 뒤쪽으로 이동시킨 모습](Assets/weight.jpg)
+<img src="Assets/weight.jpg" alt="무게 중심을 뒤쪽으로 이동시킨 모습" width="200">
 
 3. 제작된 날개의 단면을 측면에서 관찰하면 위쪽이 아래쪽보다 볼록한 유선형 구조를 이룬다. 이 구조로 인해 날개 위쪽을 지나는 공기의 흐름이 아래쪽보다 빨라진다. 베르누이 원리에 따라 위쪽에는 저기압, 아래쪽에는 상대적으로 고기압이 형성되어 날개를 위로 밀어 올리는 양력이 발생한다.
-![옆에서 본 모습](Assets/side.jpg)
+
+<img src="Assets/side.jpg" alt="옆에서 본 모습" width="200">
 
 ## 마. 탐구결과
 바람을 가해주었을 때, 베르누이 원리에 의해 형성된 기압 차로 비행기 날개가 위로 떠오르는 것을 확인하였다.
 
-[작동 동영상 보기](https://drive.proton.me/urls/87DBGSMDTW#66h6eMWsj6td)  
+[작동 동영상 보기](https://drive.proton.me/urls/87DBGSMDTW#66h6eMWsj6td)
 *(참고: 링크 접속이 불가할 경우 `Assets/working.mp4` 파일 참조 / 종단간 암호화(E2EE) 적용으로 로딩에 시간이 소요될 수 있음)*
 
 ---
